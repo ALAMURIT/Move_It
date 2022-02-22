@@ -7,8 +7,8 @@ using UnityEngine.AI;
 
 public class PlayerMovement : MonoBehaviour
 {
-    //author:   alamurit
-    //date: 18/01/2022
+    //author:   ramya_sri
+    //date: 22/02/2022
     //this scripts enables movement of the player
     private Transform playerTransform;
     private Text movesNumber;
